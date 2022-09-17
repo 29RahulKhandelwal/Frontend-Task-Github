@@ -1,0 +1,41 @@
+.profileSection{
+    width: 30%;
+    height: 100%;
+}
+.profile{
+    padding: 20px;
+    text-align: center;
+    left: 15%;
+    position: fixed;
+    top: 50%;
+    -webkit-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+}
+.img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+.h1Tag{
+margin: 5px 0px;
+}
+.paraTag{
+margin: 8px 0px;
+}
+.anchorTag{
+color: #58a6ff;
+}
+.anchorTag:hover{
+color: blueviolet;
+}
+
+@media only screen and (max-width: 1200px) {
+    .profileSection{
+        width: 100%;
+    }
+    .profile{
+        position: inherit;
+        transform: inherit;
+    }
+}
