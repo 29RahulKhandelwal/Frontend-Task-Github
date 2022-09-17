@@ -26,18 +26,12 @@ https://frontend-task-github.vercel.app/
 
 ## Task Screenshots
 
-![image](https://drive.google.com/file/d/1W1Bx6efVdapPX98sFg0CV7WHNXEMpy1U/view?usp=sharing)
+![Pic1](https://user-images.githubusercontent.com/80885005/190854982-64374f0f-e1ee-49b8-9811-0a1761ed6a9b.png)
 
-![image](https://drive.google.com/file/d/1Lb6krfqvcgbQkIulm0ickEfmPl2TFlxg/view?usp=sharing)
+![Pic2](https://user-images.githubusercontent.com/80885005/190854998-4f69b470-1160-434a-96f0-85145384171e.png)
 
-![image](https://drive.google.com/file/d/1Z195FC_h5BqEvAO5X8P-8DHDuGTrUkjl/view?usp=sharing)
+![Pic3](https://user-images.githubusercontent.com/80885005/190855026-8bcd3cea-6468-4244-8707-6a16692e3df1.png)
 
-![image](https://drive.google.com/file/d/1TcV6PjheiP9S2wGQcnJclJ41SJ0NMuw1/view?usp=sharing)
+![Pic4](https://user-images.githubusercontent.com/80885005/190855032-f71c6ef4-f28c-4011-a917-b0b3ebb83cc3.png)
 
-![image](https://drive.google.com/file/d/1CbFQJZU9i2wo0_YfZZf4o4mANYm9puJL/view?usp=sharing)
-
-![image](https://drive.google.com/file/d/1pRbnvgoaaSOrPtZ69wyQAY8q4wIvOURz/view?usp=sharing)
-
-![image](https://drive.google.com/file/d/1pRbnvgoaaSOrPtZ69wyQAY8q4wIvOURz/view?usp=sharing)
-
-![image](https://drive.google.com/file/d/1pNl25yppKcPfdz0SCU1JZtZ8Qb-W3o5x/view?usp=sharing)
+![Pic5](https://user-images.githubusercontent.com/80885005/190855044-ebf7005e-77ad-4a3c-bf9f-f668c424ff87.png)
