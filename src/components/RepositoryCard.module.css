@@ -19,7 +19,7 @@
     color: blueviolet;
 }
 
-@media (max-width: 720px) {
+@media (max-width: 780px) {
     .respositoryCard{
         width: 80%;
     }
