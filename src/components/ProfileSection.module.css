@@ -40,7 +40,7 @@ color: blueviolet;
     }
 }
 
-@media (max-width: 780px){
+@media (max-width: 900px){
     .img{
         width: 60%;
         height: 60%;
