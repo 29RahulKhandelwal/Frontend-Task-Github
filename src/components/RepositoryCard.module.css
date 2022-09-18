@@ -18,3 +18,9 @@
 .anchorTag:hover{
     color: blueviolet;
 }
+
+@media (max-width: 720px) {
+    .respositoryCard{
+        width: 80%;
+    }
+}

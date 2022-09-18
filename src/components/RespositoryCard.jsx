@@ -2,7 +2,6 @@ import React from 'react'
 import classes from "./RepositoryCard.module.css"
 
 const RespositoryCard = (props) => {
-  const description = props?.data?.description
   return (
     <div className={classes.respositoryCard} key={props?.id}>
       <div id={classes.card} className="card">

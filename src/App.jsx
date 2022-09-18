@@ -3,11 +3,10 @@ import axios from 'axios';
 import classes from "./App.module.css";
 import ProfileSection from './components/ProfileSection';
 import RepositorySection from './components/RepositorySection';
-import { useEffect } from 'react';
-import Pagination from './components/Pagination';
 import Loading from './components/Loading';
 import { toast, ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import Img from "./assets/githublogo.png"
 
 const getUsername = () => {
   let username = sessionStorage.getItem("SearchUsername");
@@ -68,6 +67,7 @@ const App = () => {
   return (
     <div className={classes.main}>
       <div className={classes.searchBar}>
+        <img className={classes.img} src={Img} alt="github-pic" />
         <input className={classes.search} type="text" onChange={handleSearchUser} value={username} name="username" placeholder='Search username here...' />
         <button className={classes.searchBtn} onClick={handleSearchUserClick}>Search</button>
       </div>
