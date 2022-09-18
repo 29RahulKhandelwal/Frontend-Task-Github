@@ -19,8 +19,17 @@
     color: blueviolet;
 }
 
-@media (max-width: 780px) {
+@media (max-width: 1080px) {
     .respositoryCard{
         width: 80%;
+    }
+    h5{
+        font-size: 2rem;
+    }
+    .h6Tag{
+        font: 1.5rem;
+    }
+    p{
+        font-size: 1.2rem;
     }
 }

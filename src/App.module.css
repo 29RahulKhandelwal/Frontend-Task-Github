@@ -63,15 +63,45 @@
 }
 @media (max-width: 1080px) { 
     .img{
-        width: 11%;
-        height: 11%;
+        width: 5.4%;
+        height: 5.4%;
+        margin-top: -8px;
     }
     .search{
         width: 60%;
         height: 50px;
+        font-size: 1.5rem;
     }
     .searchBtn{
         width: 25%;
         height: 50px;
+        font-size: 1.2rem;
+    }
+}
+@media (max-width: 870px){
+    .img{
+        width: 6.4%;
+        height: 6.4%;
+    }
+}
+@media (max-width: 740px){
+    .img{
+        width: 7.4%;
+        height: 7.4%;
+    }
+}
+@media (max-width: 640px){
+    .img{
+        width: 8.4%;
+        height: 8.4%;
+    }
+}
+@media (max-width: 540px){
+    .img{
+        width: 9.4%;
+        height: 9.4%;
+    }
+    .searchBtn{
+        margin-top: 10px;
     }
 }

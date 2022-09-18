@@ -45,17 +45,11 @@ color: blueviolet;
         width: 60%;
         height: 60%;
     }
-    /* .h1Tag{
-        
-    }
     .username{
-
+        font-size: 1.8rem;
     }
-    .paraTag{
-        
+    .paraTag, .anchorTag{
+        font-size: 1.2rem;
     }
-    .anchorTag{
-        
-    } */
 
 }
