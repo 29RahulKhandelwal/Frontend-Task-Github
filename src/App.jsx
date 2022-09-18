@@ -69,7 +69,7 @@ const App = () => {
       <div className={classes.searchBar}>
         <img className={classes.img} src={Img} alt="github-pic" />
         <input className={classes.search} type="text" onChange={handleSearchUser} value={username} name="username" placeholder='Search username here...' />
-        <button className={classes.searchBtn} onClick={handleSearchUserClick}>Search</button>
+        <button className={!username ? classes.searchBtnDisabled : classes.searchBtn} onClick={handleSearchUserClick} disabled={!username}>Search</button>
       </div>
       {getProfileData && getRepoData && <div className={classes.github}>
         <ProfileSection data={getProfileData} />

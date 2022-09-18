@@ -22,12 +22,22 @@
     border: none;
 }
 .searchBtn{
-    background-color: #58a6ff;
+    background-color: dodgerblue;
     color: #fff;
     padding: 10px 20px;
     border-radius: 20px;
     height: 45px;
     margin: 0px 10px;
+    outline: none;
+}
+.searchBtnDisabled{
+    background-color: lightblue;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 20px;
+    height: 45px;
+    margin: 0px 10px;
+    outline: none;
 }
 .github{
     width: 100%;
@@ -53,7 +63,7 @@
         height: 50px;
         font-size: 1.5rem;
     }
-    .searchBtn{
+    .searchBtn, .searchBtnDisabled{
         width: 25%;
         height: 50px;
         font-size: 1.2rem;
@@ -82,7 +92,7 @@
         width: 9.4%;
         height: 9.4%;
     }
-    .searchBtn{
+    .searchBtn, .searchBtnDisabled{
         margin-top: 10px;
     }
 }
